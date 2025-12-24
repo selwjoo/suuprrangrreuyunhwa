@@ -6,8 +6,20 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 78824252140620b45b9c5b7f64ffbc36
+  - enabled: 1
     path: Assets/Scenes/Play.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/English.unity
+    guid: 9c06a60090411f642b5e0e6d6840a6b7
+  - enabled: 1
+    path: Assets/Scenes/Timer.unity
+    guid: 86bbf0934e34aa0439cdad1077bc7815
+  - enabled: 1
+    path: Assets/Scenes/Timer 1.unity
+    guid: d20e4efd5f2e53045a1f2fc3fc2f81e3
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
